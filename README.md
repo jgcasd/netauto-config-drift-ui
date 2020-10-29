@@ -49,6 +49,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 5) Create the pull request.
 
 # Todo
+* Add code to deploy to AWS S3
 * Implement authentication and authorization
 * Add support for retrieving device vars from API
 * Add support for managing device inventory from UI
